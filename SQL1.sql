@@ -1,5 +1,4 @@
--- ============================================
--- SQL Server — Class 1 Homework
+-- ===========================================
 -- BikeStores Sample Database
 -- Topics: Querying · Sorting · Filtering · Set Operators
 -- ============================================
